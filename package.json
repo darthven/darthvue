@@ -23,7 +23,7 @@
     "@types/chai": "^4.1.0",
     "@types/mocha": "^5.2.4",
     "@types/webpack": "^4.4.0",
-    "@vue/cli-plugin-e2e-nightwatch": "^3.9.0",
+    "@vue/cli-plugin-e2e-nightwatch": "^5.0.8",
     "@vue/cli-plugin-typescript": "^3.9.0",
     "@vue/cli-plugin-unit-mocha": "^3.9.0",
     "@vue/cli-service": "^3.9.0",
